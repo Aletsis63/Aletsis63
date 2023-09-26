@@ -21,8 +21,7 @@ Me encantaria poder especializarme en alguna de estas areas moviles o web ademas
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()(solo las bases)
-
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
@@ -31,10 +30,10 @@ Me encantaria poder especializarme en alguna de estas areas moviles o web ademas
 
 ## Contacto:
 
-[![MyPublicInbo](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
-</br>
 Email - cesar.ochoa.tapia10@gmail.com
+
 linkedin - https://www.linkedin.com/in/cesar-alexis-ochoa-tapia-709396198?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsBh7HpDFQr6knmiTFPG4Jg%3D%3D
+
 Pagina web - En contruccion...
 </br>
 
