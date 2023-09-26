@@ -14,7 +14,7 @@ e trabajado con ciertas tecnologias como el uso de java, node, django, ios, xcod
 Me encantaria poder especializarme en alguna de estas areas moviles o web ademas de tambien utilizar inteligencia artififical
 
 **`Skills 🙌`**
-## Tecnologías:
+
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
@@ -27,6 +27,7 @@ Me encantaria poder especializarme en alguna de estas areas moviles o web ademas
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
+Algunas de las mencionadas se tiene un conocimiento basico pero siempre estoy apreniendo....
 
 ## Contacto:
 
@@ -37,6 +38,7 @@ linkedin - https://www.linkedin.com/in/cesar-alexis-ochoa-tapia-709396198?lipi=u
 Pagina web - En contruccion...
 </br>
 
+## REPOSITORIOS DE PROYECTOS:
 
 <!--
 **Aletsis63/Aletsis63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
