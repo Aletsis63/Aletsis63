@@ -1,6 +1,9 @@
-# Alexis Ochoa
-### Hi there 👋
-
+# Cesar Alexis Ochoa Tapia
+### Hola a todos los lectores 👋
+**`Acerca de 🙌`**
+Mi nombre es Alexis Ochoa actualmente estudio la carrera de ingenieria en sistemas computacionales 
+En el instituto tecnologico de la laguna, curso el 9no semestre, soy desarollador de software y me apasiona la tecnologia
+Bienbenido seas a mi github donde podras ver mis proyectos y concoerme un pococ mejor.
 <!--
 **Aletsis63/Aletsis63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
